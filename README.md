@@ -1,1 +1,2 @@
 # Anime-Firearms-Data-Analysis
+This project showcases adeptness in Python for web scraping and data manipulation, coupled with MySQL database management. It involves extracting firearm data from a webpage using BeautifulSoup and Requests, storing it in MySQL, and analyzing it with Pandas. This demonstrates proficiency in web scraping, database handling, and data analysis, making it a valuable asset on a resume for roles in data engineering, web development, or data analysis.
